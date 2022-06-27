@@ -1,11 +1,11 @@
 //
-//  main.swift
+//  BaekJoon_17413_String.swift
 //  Algorithm_Swift
 //
-//  Created by 이창형 on 2022/06/26.
+//  Created by 이창형 on 2022/06/27.
 //
 
-import Foundation
+mport Foundation
 
 
 let input = readLine()!
