@@ -20,6 +20,7 @@
 		32EF4C5528715F9300396AE9 /* BaekJoon_10869.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32EF4C5428715F9300396AE9 /* BaekJoon_10869.swift */; };
 		32EF4C572871617B00396AE9 /* BaekJoon_10926.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32EF4C562871617B00396AE9 /* BaekJoon_10926.swift */; };
 		32EF4C59287182A300396AE9 /* BaekJoon_2588.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32EF4C58287182A200396AE9 /* BaekJoon_2588.swift */; };
+		32EF4C5B287184AF00396AE9 /* BaekJoon_25083.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32EF4C5A287184AF00396AE9 /* BaekJoon_25083.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +50,7 @@
 		32EF4C5428715F9300396AE9 /* BaekJoon_10869.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaekJoon_10869.swift; sourceTree = "<group>"; };
 		32EF4C562871617B00396AE9 /* BaekJoon_10926.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaekJoon_10926.swift; sourceTree = "<group>"; };
 		32EF4C58287182A200396AE9 /* BaekJoon_2588.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaekJoon_2588.swift; sourceTree = "<group>"; };
+		32EF4C5A287184AF00396AE9 /* BaekJoon_25083.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaekJoon_25083.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				32EF4C5428715F9300396AE9 /* BaekJoon_10869.swift */,
 				32EF4C562871617B00396AE9 /* BaekJoon_10926.swift */,
 				32EF4C58287182A200396AE9 /* BaekJoon_2588.swift */,
+				32EF4C5A287184AF00396AE9 /* BaekJoon_25083.swift */,
 			);
 			name = "입출력과 사칙연산";
 			path = "입출력과 사칙연산";
@@ -176,6 +179,7 @@
 				32EF4C5028715AD200396AE9 /* BaekJoon_10998.swift in Sources */,
 				32EF4C5328715B4200396AE9 /* BaekJoon_1008.swift in Sources */,
 				32EF4C572871617B00396AE9 /* BaekJoon_10926.swift in Sources */,
+				32EF4C5B287184AF00396AE9 /* BaekJoon_25083.swift in Sources */,
 				32EF4C442870298F00396AE9 /* BaekJoon_2557.swift in Sources */,
 				324E8A462868664D00939F04 /* main.swift in Sources */,
 			);
