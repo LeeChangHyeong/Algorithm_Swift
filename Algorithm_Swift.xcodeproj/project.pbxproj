@@ -11,6 +11,9 @@
 		327865972869D51B00462291 /* BaekJoon_17413_String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 327865962869D51B00462291 /* BaekJoon_17413_String.swift */; };
 		32EF4C442870298F00396AE9 /* BeakJoon_2557.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32EF4C432870298F00396AE9 /* BeakJoon_2557.swift */; };
 		32EF4C4628702A9E00396AE9 /* BeakJoon_10718.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32EF4C4528702A9E00396AE9 /* BeakJoon_10718.swift */; };
+		32EF4C4828702B4700396AE9 /* BeakJoon_10171.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32EF4C4728702B4700396AE9 /* BeakJoon_10171.swift */; };
+		32EF4C4A2871512A00396AE9 /* BeakJoon_10172.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32EF4C492871512A00396AE9 /* BeakJoon_10172.swift */; };
+		32EF4C4C287155CD00396AE9 /* BeakJoon_1000.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32EF4C4B287155CD00396AE9 /* BeakJoon_1000.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +34,9 @@
 		327865962869D51B00462291 /* BaekJoon_17413_String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaekJoon_17413_String.swift; sourceTree = "<group>"; };
 		32EF4C432870298F00396AE9 /* BeakJoon_2557.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeakJoon_2557.swift; sourceTree = "<group>"; };
 		32EF4C4528702A9E00396AE9 /* BeakJoon_10718.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeakJoon_10718.swift; sourceTree = "<group>"; };
+		32EF4C4728702B4700396AE9 /* BeakJoon_10171.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeakJoon_10171.swift; sourceTree = "<group>"; };
+		32EF4C492871512A00396AE9 /* BeakJoon_10172.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeakJoon_10172.swift; sourceTree = "<group>"; };
+		32EF4C4B287155CD00396AE9 /* BeakJoon_1000.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeakJoon_1000.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +81,9 @@
 			children = (
 				32EF4C432870298F00396AE9 /* BeakJoon_2557.swift */,
 				32EF4C4528702A9E00396AE9 /* BeakJoon_10718.swift */,
+				32EF4C4728702B4700396AE9 /* BeakJoon_10171.swift */,
+				32EF4C492871512A00396AE9 /* BeakJoon_10172.swift */,
+				32EF4C4B287155CD00396AE9 /* BeakJoon_1000.swift */,
 			);
 			name = "입출력과 사칙연산";
 			path = "입출력과 사칙연산";
@@ -138,7 +147,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				32EF4C4A2871512A00396AE9 /* BeakJoon_10172.swift in Sources */,
+				32EF4C4828702B4700396AE9 /* BeakJoon_10171.swift in Sources */,
 				32EF4C4628702A9E00396AE9 /* BeakJoon_10718.swift in Sources */,
+				32EF4C4C287155CD00396AE9 /* BeakJoon_1000.swift in Sources */,
 				327865972869D51B00462291 /* BaekJoon_17413_String.swift in Sources */,
 				32EF4C442870298F00396AE9 /* BeakJoon_2557.swift in Sources */,
 				324E8A462868664D00939F04 /* main.swift in Sources */,

@@ -7,5 +7,7 @@
 
 import Foundation
 
-print("강한친구 대한육군")
-print("강한친구 대한육군")
+let inputs: [Int] = readLine()!.split(separator: " ").map { Int(String($0))! }
+
+print(inputs[0] + inputs[1])
+
